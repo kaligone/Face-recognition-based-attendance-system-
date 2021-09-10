@@ -1,1 +1,5 @@
-Main file
+pip install pillow
+pip install opencv-python
+save the file name haarcascade_frontalface_default.xml  in the folder where implementation has been done
+database table name is face_recognizer and insde it is student.sql.
+import databse file and start using freely.
