@@ -4,3 +4,7 @@ save the file name haarcascade_frontalface_default.xml  in the folder where impl
 database table name is face_recognizer and insde it is student.sql.
 import databse file and start using freely.
 PLEASE FOLLOW THIS 5 STEPS TO RN ERROR FREE APPLICATION.
+For running train.py file first install pip install opencv-contrib-python
+V.IMP NOTE:- If it is not working and giving error cv2.cv2 has no attribute face
+V.IMP NOTE:- The first unistall opencv and contrib using pip unistall opencv-python and pip uninstall opencv-contrib-python
+V.IMP NOTE:- Then install contrib using pip install opencv-contrib-python
